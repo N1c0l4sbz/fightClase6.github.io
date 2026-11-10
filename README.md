@@ -1,7 +1,6 @@
 # TP6 — Base de datos, normalización y SQL
 
-**Proyecto:** Lunar MCA / Impact Fight  
-**Materia:** Programación Web
+**Proyecto:** Impact Fight 
 
 ## Objetivo del trabajo
 
